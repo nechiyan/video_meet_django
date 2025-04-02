@@ -13,7 +13,6 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'corsheaders',
-    'channels',
     'api',
     'rooms',
     "daphne", 
